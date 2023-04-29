@@ -14,7 +14,7 @@ body{
 }
 .window{
     width: 90%;
-    max-width: 470px;
+    max-width: 500px;
     background: rgba(160, 25, 25, 0.523);
     border-radius: 20px;
     box-shadow: rgba(104, 10, 10, 0.35) 0px 5px 20px;
